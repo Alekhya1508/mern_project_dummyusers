@@ -1,0 +1,30 @@
+.authentication__header {
+    color: rgb(104, 12, 217);
+    text-align: center; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 4rem;
+    position: relative; 
+  }
+  
+  .authentication {
+    color: #000000;
+    width: 90%;
+    max-width: 25rem;
+    margin: 7rem auto;
+    text-align: center;
+  }
+  
+  .authentication form {
+    margin-bottom: 1rem;
+      background-color: rgb(204, 233, 218);
+      border-radius: 1rem;
+      padding: 1rem;
+  .authForm>div{
+      width: 100%;
+      align-items: center;
+      justify-content: center;
+  }
+  }
